@@ -1,0 +1,18 @@
+.card {
+    border: 1px solid #eee;
+    padding: 10px;
+    box-shadow: 4px 4px 5px rgba(0,0,0,0.05);
+    max-width: 400px;
+    border-radius: 4px;
+    margin: 20px auto;
+}
+
+/* YOU NEED TO SCOPE THE RULE WITH A CSS CLASS, OR ELSE THIS WON'T WORK */
+/* button {
+    background-color: #555;
+} */
+
+/* DO THIS INSTEAD */
+.card button {
+    background-color: #555;
+}
