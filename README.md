@@ -13,4 +13,7 @@ A small playground where I refreshed myself on React fundamentals like useState,
 A small playground where I refreshed myself on some React hooks like useEffect, useCallback, async hooks, and more.
 
 ## Magic-Memory-RTG
+
+<a href="https://magicmemorygame-react.onrender.com/">Visit my website here!</a>
+
 A simple memory game built on Vite, React, and TypeScript. The user loads into a game and attempts to match a matrix of face-down cards to one another. The game ends when all cards are flipped, with the users' total turn count and success rate displayed on the bottom of the screen.
